@@ -1,7 +1,7 @@
 # Stepper
 
-React 17, Hooks, Redux, Scss.
+React 17, Hooks, Redux, LocalStorage, Scss.
 
-## Preview
+<a href="https://rezamehdipour.ir/stepper">[ Live Preview ]</a>
 
-![preview](preview.png)
+![preview](preview.jpg)
